@@ -1,0 +1,16 @@
+.project-item {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+.image-item {
+  margin-right: 20px;
+  flex: 100%;
+}
+
+.picture {
+  box-sizing: border-box;
+  height: 100%;
+  width: 100%;
+}

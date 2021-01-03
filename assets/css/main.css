@@ -2503,9 +2503,9 @@ input[type='radio']:focus + label:before {
   border-top: 0;
 }
 
-.image {
+/* .image {
   box-shadow: 0 0 0 4px #ffffff, 0 0 0 5px #e6e6e6;
-}
+} */
 
 .image.phone {
   box-shadow: none;
